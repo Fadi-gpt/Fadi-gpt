@@ -1,16 +1,38 @@
-## Hi there 👋
-
-<!--
-**Fadi-gpt/Fadi-gpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fadi-gpt'in Kişisel Sayfası</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #90caf9;
+    }
+    p {
+      line-height: 1.6;
+    }
+    strong {
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fadi-gpt'in Kişisel Sayfası</h1>
+  <h2>Hakkımda</h2>
+  <p><strong>Soru:</strong> Bu web sayfasında hangi bölümler olsun istiyorsun?<br>
+  <strong>Cevap:</strong> Hakkımda</p>
+  <p><strong>Soru:</strong> Tasarım açısından nasıl bir stil tercih edersin?<br>
+  <strong>Cevap:</strong> Koyu tema</p>
+  <p><strong>Soru:</strong> Seninle ilgili hangi bilgiler yer almalı?<br>
+  <strong>Cevap:</strong> Sana sorduğum her şey ve cevapları</p>
+  <p><strong>Soru:</strong> Bana İslam şartlarına uygun ve güzel izlenen bir anime söyle?<br>
+  <strong>Cevap:</strong> <a href="https://www.youtube.com/watch?v=video_link">Anime Adı</a></p>
+</body>
+</html>
